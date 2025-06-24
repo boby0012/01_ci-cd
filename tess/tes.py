@@ -1,5 +1,5 @@
 from app.main import main
 
 
-def tess_main():
+def tess():
     assert main() == "hello word"
